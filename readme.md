@@ -7,9 +7,7 @@ table_id='mes_categoria_brasil'
 
 Essa análise foi feita em Python no jupyter notebook do VSCode.
 
-.
-.
-.
+<p align="center">...</p>
 
 
 Na pasta [1. Código](https://github.com/allanmviana/basedosdados/tree/main/1.%20C%C3%B3digo) você encontra o código completo com comentários e análise.
