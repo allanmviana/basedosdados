@@ -13,8 +13,8 @@ O mesmo código em outras IDEs pode quebrar a formatação da visualização.
 .
 
 
-Na pasta [codigo](https://github.com/allanmviana/basedosdados/tree/main/codigo) você encontra o código completo com comentários e análise.
+Na pasta [1. Código](https://github.com/allanmviana/basedosdados/tree/main/1.%20C%C3%B3digo) você encontra o código completo com comentários e análise.
 
-Na pasta Análise você encontra o resumo da análise em PDF e os gráficos.
+Na pasta [2. Análise](https://github.com/allanmviana/basedosdados/tree/main/2.%20An%C3%A1lise) você encontra o resumo da análise em PDF e os gráficos.
 
-Na pasta gráficos, você enncontra os dois gráficos gerados na análise.
+Na pasta [3. Gráficos](https://github.com/allanmviana/basedosdados/tree/main/3.%20Gr%C3%A1ficos), você enncontra os dois gráficos gerados na análise.
