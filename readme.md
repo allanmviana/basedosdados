@@ -13,8 +13,8 @@ O mesmo código em outras IDEs pode quebrar a formatação da visualização.
 .
 
 
-Na pasta código você encontra o código completo.
+Na pasta código você encontra o código completo com comentários e análise.
 
-Na pasta Análise você encontra o resumo e o gráfico.
+Na pasta Análise você encontra o resumo da análise em PDF e os gráficos.
 
 Na pasta gráficos, você enncontra os dois gráficos gerados na análise.
