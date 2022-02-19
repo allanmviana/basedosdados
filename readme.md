@@ -13,7 +13,7 @@ O mesmo código em outras IDEs pode quebrar a formatação da visualização.
 .
 
 
-Na pasta código você encontra o código completo com comentários e análise.
+Na pasta [codigo](https://github.com/allanmviana/basedosdados/tree/main/codigo) você encontra o código completo com comentários e análise.
 
 Na pasta Análise você encontra o resumo da análise em PDF e os gráficos.
 
