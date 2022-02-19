@@ -6,7 +6,6 @@ table_id='mes_categoria_brasil'
 ```
 
 Essa análise foi feita em Python no jupyter notebook do VSCode.
-O mesmo código em outras IDEs pode quebrar a formatação da visualização.
 
 .
 .
